@@ -1,0 +1,8 @@
+cloudUrl=https://qacloud.experitest.com
+username=roman_user
+accessKey=eyJhbGciOiJIUzI1NiJ9.eyJ4cC51Ijo0MjU5ODQ4LCJ4cC5wIjozOTQ5MDQ1LCJ4cC5tIjoxNjE4MTM5NTk2ODQ4LCJleHAiOjE5MzM0OTk1OTYsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.PXLgQvx3w0xdhdYNV4Kkhoqbt6wbFePwhklVG5nhBY0
+numOfDevices=1
+serialNumber=NeedToFind
+testToRun=eriBankPaymentTest
+repeat=1
+udID=asdkj82
